@@ -1,0 +1,13 @@
+bugTypeCode,bugTypeEn,bugTypeDesc,bugTypeCoefficient
+C,code,代码错误,1
+TD,tech design,技术设计缺陷,1.5
+P,performance,性能问题,1.5
+R,repeatedly,反复代码错误,2
+CO,cause others,引发其他错误,2
+U,ui,界面优化,0.5
+S,specification,标准规范,1
+PD,product design,产品设计缺陷,0
+SM,small miss,小遗漏,0.5
+LM,large miss,重大遗漏,2
+CU,coperate ui,配合前端,0.5
+DA,data,数据问题,0.5
