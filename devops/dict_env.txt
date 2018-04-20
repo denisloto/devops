@@ -1,4 +1,0 @@
-envCode,envDescEn,envDesc,envCoefficient
-S,stage,预发布,0.6
-P,prod,生产,1.5
-D,dev,开发,0

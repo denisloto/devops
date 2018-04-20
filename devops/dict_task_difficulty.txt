@@ -1,5 +1,0 @@
-taskDifficultyCode,taskDifficultyEn,taskDifficultyDesc,taskDifficultyCoefficient
-S,simple,简单,0.5
-N,normal,普通,1
-H,hard,较难,1.5
-E,expert,难,2
